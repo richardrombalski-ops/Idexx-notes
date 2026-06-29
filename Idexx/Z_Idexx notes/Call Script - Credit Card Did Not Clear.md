@@ -27,13 +27,6 @@ Use this script when a customer's credit card payment did not process successful
 >
 > How would you like to handle this?"
 
----
-
-## If They Ask for More Time
-
-> "Absolutely, no problem. I can follow up with you on [date]. I do want to mention that we want to get this resolved before it impacts your account services."
-
----
 
 ## Payment Options to Offer
 
